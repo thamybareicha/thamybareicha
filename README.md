@@ -114,8 +114,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thamybareicha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thamybareicha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens%20mais%20usadas" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=thamybareicha&theme=nord&column=7&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thamybareicha&radius=16&theme=github-dark&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
