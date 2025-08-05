@@ -6,27 +6,31 @@
 
 ###
 
-<h1 align="left">👋 Oie! Tudo bem?</h1>
+<h1 align="center">👋 Oie! Tudo bem?</h1>
 
 ###
 
-<p align="left">Meu nome é Thamyris e eu sou desenvolvedora Fullstack. Atualmente curso Análise e desenvolvimento de sistemas.</p>
+<p align="center">Meu nome é Thamyris e eu sou desenvolvedora Fullstack. Atualmente curso Análise e desenvolvimento de sistemas.</p>
 
 ###
 
-<h2 align="left">👩🏽‍💻 Mais sobre mim</h2>
+<p align="center">🎓 Graduanda em Análise e desenvolvimento de sistemas<br>🖥️ Formada publicidade e design gráfico, especialista em UI e UX<br>🎯 Objetivo: Me tornar uma profissional completa de criação de soluções, do design ao código</p>
 
 ###
 
-<p align="left">🎓 Graduanda em Análise e desenvolvimento de sistemas<br>📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack<br>🖥️ Formada publicidade e design gráfico, especialista em UI e UX<br>🎯 Objetivo: Me tornar uma profissional completa de criação de soluções, do design ao código</p>
+<p align="center">Atualmente estou estudando:</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</div>  
 
 ###
 
-<h2 align="left">☑️ Stack atual</h2>
+<h2 align="center">☑️ Stack atual</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -40,14 +44,12 @@
 
 ###
 
-<h2 align="left">💻 Backend e Frontend</h2>
+<h2 align="center">💻 Backend e Frontend</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -56,7 +58,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -70,11 +72,11 @@
 
 ###
 
-<h2 align="left">📊 Banco de dados e ORM</h2>
+<h2 align="center">📊 Banco de dados e ORM</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
@@ -84,11 +86,11 @@
 
 ###
 
-<h2 align="left">🖱Outros</h2>
+<h2 align="center">🖱Outros Conhecimentos</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
@@ -110,10 +112,23 @@
 
 ###
 
-<div align="left">
+<h2 align="center">Github Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=thamybareicha&theme=nord&column=7&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thamybareicha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thamybareicha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens%20mais%20usadas" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=thamybareicha&theme=nord&column=7&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
